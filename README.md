@@ -1,7 +1,3 @@
-#### 该文档为学习《C++Primer》过程中做的笔记
-#### 目的是形成一个C++的网络，并且在今后的使用过程中作为一个Reference。
+双击`RUN.exe`打开C++ Reference。
 
-
-##### Author：NiuJuxin
-##### CreateTime：2020.06.10
-
+UsefulNotes文件夹中有使用C++过程中遇到的一些方法。
