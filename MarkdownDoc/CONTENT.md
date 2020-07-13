@@ -17,6 +17,11 @@
 
 ## Chapter 3 [如何处理大型程序](../HtmlDoc/C3.html)
 
+- 作用域与生存空间
+- 分离式编译
+- 预处理器
+- 命名空间
+
 ## Chapter 4 [字符串](../HtmlDoc/C4.html)
 
 ## Chapter 5 [数组和向量](../HtmlDoc/C5.html)
