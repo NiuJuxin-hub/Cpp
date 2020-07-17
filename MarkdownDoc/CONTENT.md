@@ -15,26 +15,23 @@
 - 常量（包括`const`和`constexpr`）
 - 如何利用类型别名（如`typedef`）和`auto`类型说明符处理复杂类型
 
-## Chapter 3 [如何处理大型程序](../HtmlDoc/C3.html)
+## Chapter 3 [数组](../HtmlDoc/C3.html)
+
+## Chapter 4 [迭代器、标准库类型`vector`和`string`](../HtmlDoc/C4.html)
+
+## Chapter 5 [运算符和表达式](../HtmlDoc/C5.html)
+
+## Chapter 6 [语句](../HtmlDoc/C6.html)
+
+## Chapter 7 [函数](../HtmlDoc/C7.html)
+
+## Chapter 8  [类](../HtmlDoc/C8.html)
+
+## Chapter 9 [I/O](../HtmlDoc/C9.html)
+
+## Appendix [如何处理大型程序](../HtmlDoc/appendix.html)
 
 - 作用域与生存空间
 - 分离式编译
 - 预处理器
-- 命名空间
-
-## Chapter 4 [字符串](../HtmlDoc/C4.html)
-
-## Chapter 5 [数组和向量](../HtmlDoc/C5.html)
-
-## Chapter 6 [运算符和表达式](../HtmlDoc/C6.html)
-
-## Chapter 7 [语句](../HtmlDoc/C7.html)
-
-## Chapter 8 [函数](../HtmlDoc/C8.html)
-
-## Chapter 9  [类](../HtmlDoc/C9.html)
-
-## Chapter 10 [I/O](../HtmlDoc/C10.html)
-
-## Chapter 11 [其他](../HtmlDoc/C11.html)
-
+- 命名空间与`using`声明
